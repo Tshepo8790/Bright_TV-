@@ -1,1 +1,1 @@
-# Bright_TV-
+This is my Bright TV Case Study. 
